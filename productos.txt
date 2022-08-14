@@ -1,0 +1,20 @@
+[
+    {
+        title: "pulsera",
+        price: 10,
+        thumbnail: "https://www.kindpng.com/picc/m/21-218270_pulsera-de-ancla-hombre-hd-png-download.png",
+        id: 1
+    },
+    {
+        title: "collar",
+        price: 20,
+        thumbnail: "https://images.unsplash.com/photo-1618403088890-3d9ff6f4c8b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29sbGFyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        id: 2
+    },
+    {
+        title: "aro",
+        price: 15,
+        thumbnail: "https://byjoyas.com.ar/wp-content/uploads/2020/11/20201116_105119-scaled.jpg",
+        id: 3
+    }
+]
